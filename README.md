@@ -1,5 +1,3 @@
-# vitrine.Dev
-Meu portfólio
 # Nome do meu projeto
 
 Rápida descrição do objetivo de fazer esse projeto
